@@ -8,8 +8,8 @@ Example:
 
 =ImportJSON("https://api.example.com/example?param1=param&param2=param","/data","","user","apiKeyxxxxxxxxx")
 
-url: Is the api url
-query: are the Data you need get this is separate by / symbol
-parseOptions: you can do it empty
-User: always is “user”
-Pw: Is the apiKey
+url: It's the api url
+query: It's the Data you need, you need separate it by / symbol
+parseOptions: you can do it empty, It's optional
+User: always it's “user”
+Pw: It's the apiKey
