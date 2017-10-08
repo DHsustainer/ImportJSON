@@ -4,9 +4,11 @@ Import JSON to spreadsheet google
 The function is:
 =ImportJSON(url, query, parseOptions, user, pw)
 
-Example:
+#### Example:
 
 =ImportJSON("https://api.example.com/example?param1=param&param2=param","/data","","user","apiKeyxxxxxxxxx")
+
+#### Params
 
 url: It's the api url
 
